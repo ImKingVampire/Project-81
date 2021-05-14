@@ -1,0 +1,15 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+body{
+	background-image: url("bg1.jpg");
+background-size: cover;	
+}
+
+#canvoos{
+border-width: 8px;
+background-color: white;
+border-style: double;
+}
